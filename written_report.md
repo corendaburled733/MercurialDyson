@@ -7,7 +7,7 @@ We present a detailed engineering analysis of the fastest physically plausible d
 Waste heat remains a central engineering constraint because every joule used for mining, fabrication, refrigeration, transport, and launch ultimately appears as heat somewhere in the system. On Mercury's surface this strongly limits industrial density, so the thermal problem is managed first by expansion, then by hotter radiators, and finally by shifting the main power-processing and heat-rejection burden off-planet.
 
 The endgame nevertheless remains a mass-driver problem. The mature system relies on a deep reticulated compressive shell scaffold at several Mercury radii to provide ordered launch/capture geometry, transport corridors, and vast radiator area, while high-efficiency electromagnetic mass drivers serve both as launch systems and as thermal transport systems via ballistic coolant transfer. Under this revised framing, Mercury-local growth bootstraps the project, but fast disassembly is completed only after Mercury has become the seed of a much larger heliocentric power-and-logistics machine.
----
+
 
 ## 1. The Goal
 
@@ -920,7 +920,7 @@ where l is the hold or container scale rather than the full freighter length. Fo
 
 The launch system should therefore be understood as moving modular cargo freighters, not giant stone bullets.
 
-####10.1.1 Representative revised transport parameters
+#### 10.1.1 Representative revised transport parameters
 
 A useful revised reference case is:
 
@@ -935,7 +935,7 @@ At these parameters, the shell-side capture system is also large but credible in
 
 The important point is that the endgame now becomes a packet-train transport problem rather than a monolithic projectile problem.
 
-10.1.2 Gross power throughput versus net transport energy
+#### 10.1.2 Gross power throughput versus net transport energy
 
 The launch-and-capture architecture handles very large gross kinetic power, but that is not the same thing as the net external energy consumption of the surface-to-shell transport step.
 
