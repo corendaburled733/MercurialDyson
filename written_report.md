@@ -1,4 +1,4 @@
-# Mercury Down: Engineering the Rapid Disassembly of a Planet
+# Mercurial Dyson: Engineering the Rapid Disassembly of a Planet
 
 ## Abstract
 
